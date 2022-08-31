@@ -17,7 +17,7 @@ section-6:
 section-6-a: Terimakasih, dan Segera
 section-6-b: Hubungi Kami
 section-7: Ikuti Kami
-section-8: © 2021 PT. Hikari Abadi Sejahtera. All rights reserved.
+section-8: © 2022 PT. Hikari Abadi Sejahtera. All rights reserved.
 section-9: Hubungi Kami
 section-10: Harga Sewa
 section-post: Sekilas Info dari Kita
@@ -26,13 +26,13 @@ whatsapp-float-phone: whatsapp://send?text=Hallo, saya mau sewa mobil!&phone=+62
 exclude: [README.md]
 email:
 type: AutoRental
-streetAddress: Jln. Kudusan
+streetAddress: Jalan Kudusan
 address: Plosokandang, Kec. Kedungwaru, Kabupaten Tulungagung, Jawa Timur 66221
 postalCode: 61256
 telephone: +6281233355522
 telephonedetail: 0812-333-555-22
 fb_app_id: 
-id_pelacakan_ga: G-JGDRFB9ECW
+id_pelacakan_ga: UA-83154613-21
 twitter: 
 whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Hikari%20Rent%20Car%20(Name)%20(Address)%20&phone=6281233355522
 favicon: /static/favicon.ico
