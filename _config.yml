@@ -1,7 +1,7 @@
 creator: dennyrwa
 lang: id
 locale: id_ID
-title: Hikari Abdi Sejahtera
+title: Hikari Abadi Sejahtera
 company: Hikari Rent Car
 description:
 keywords: sewa mobil surabaya, rental mobil surabaya, sewa mobil surabaya murah, rental mobil surabaya murah, sewa mobil di surabaya, rental mobil di surabaya, sewa mobil murah surabaya
@@ -9,7 +9,7 @@ section-1:
 section-1-a: 
 section-1-b: 
 section-2: Rental Mobil Surabaya
-section-2-a: PT. Hikari Abdi Sejahtera adalah Rental Mobil Surabaya yang melayani jasa rental mobil di dalam Kota Surabaya dan atau keluar Kota Surabaya. Kami mempunyai tujuan untuk memberikan service terbaik serta menyediakan kendaraan yang berkualitas. Service Rental Mobil Surabaya yang kami berikan memiliki standar yang telah diatur diatas standar rental mobil di Kota Surabaya dan juga standar diatas rental mobil di kota-kota lainnya, hal tersebut kami lakukan untuk dapat memberikan pelayanan kepada konsumen secara baik, sehingga bukan isapan jempol belakan, apabila perusahaan kami mendapatkan penilaian unggul dari konsumen terdahulu kami. Oleh karena itu suatu kewajiban bagi kami kiranya untuk memberikan informasi kepada Anda supaya tidak salah memilih rental mobil di surabaya maupun rental mobil di kota lainnya melalui perusahaan kami. Ayo, segera hubungi kami, dan dapatkan informasi yang akurat dan layanan yang sesuai dengan keinginan Anda.
+section-2-a: PT. Hikari Abadi Sejahtera adalah Rental Mobil Surabaya yang melayani jasa rental mobil di dalam Kota Surabaya dan atau keluar Kota Surabaya. Kami mempunyai tujuan untuk memberikan service terbaik serta menyediakan kendaraan yang berkualitas. Service Rental Mobil Surabaya yang kami berikan memiliki standar yang telah diatur diatas standar rental mobil di Kota Surabaya dan juga standar diatas rental mobil di kota-kota lainnya, hal tersebut kami lakukan untuk dapat memberikan pelayanan kepada konsumen secara baik, sehingga bukan isapan jempol belakan, apabila perusahaan kami mendapatkan penilaian unggul dari konsumen terdahulu kami. Oleh karena itu suatu kewajiban bagi kami kiranya untuk memberikan informasi kepada Anda supaya tidak salah memilih rental mobil di surabaya maupun rental mobil di kota lainnya melalui perusahaan kami. Ayo, segera hubungi kami, dan dapatkan informasi yang akurat dan layanan yang sesuai dengan keinginan Anda.
 section-3: Bagaimana Cara Memesan?
 section-4: Galeri Kami
 section-5: Dapatkan Layanan Kami
@@ -17,7 +17,7 @@ section-6:
 section-6-a: Terimakasih, dan Segera
 section-6-b: Hubungi Kami
 section-7: Ikuti Kami
-section-8: © 2022 PT. Hikari Abdi Sejahtera. All rights reserved.
+section-8: © 2021 PT. Hikari Abadi Sejahtera. All rights reserved.
 section-9: Hubungi Kami
 section-10: Harga Sewa
 section-post: Sekilas Info dari Kita
@@ -26,7 +26,7 @@ whatsapp-float-phone: whatsapp://send?text=Hallo, saya mau sewa mobil!&phone=+62
 exclude: [README.md]
 email:
 type: AutoRental
-streetAddress: Jalan Kudusan
+streetAddress: Jln. Kudusan
 address: Plosokandang, Kec. Kedungwaru, Kabupaten Tulungagung, Jawa Timur 66221
 postalCode: 61256
 telephone: +6281233355522
